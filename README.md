@@ -1,6 +1,4 @@
-Here is a revised and polished version of your text, with improved grammar, coherence, structure, and professional tone. Changes have been made to increase clarity and fluency while preserving the original meaning and technical depth:
 
----
 
 **Title:**
 **Multi-News Summarizer & Fact Extractor Using Gemini Pro and Web Scraping**
@@ -115,6 +113,3 @@ Three human-evaluated dimensions:
 
 Gemini Pro outperformed traditional models in both recall-based and precision-based evaluations, confirming its robustness in factual summarization and readability.
 
----
-
-Would you like help creating the **diagram** for the system architecture as well?
