@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Setup Gemini API
-genai.configure(api_key="AIzaSyCeX8muB03xzKivygj153T72IcXp9h9uZ0")  # Replace with your actual key
+genai.configure(api_key=" ")  # Replace with your actual key
 
 generation_config = {
     "temperature": 0.8,
